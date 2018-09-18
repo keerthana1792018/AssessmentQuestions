@@ -1,0 +1,11 @@
+Consider the given project:
+
+https://github.com/marmelab/admin-on-rest-demo
+
+1. Download it in your local environment
+2. Build it. 
+3. Create a distributable/production/minified version of the same. 
+4. Deploy it in independent http server i.e. live-server.
+5. live-server is one of the npm package installed using following command: 
+	npm install -g live-server
+6. Final deployable should be deployed at http://localhost:1234
